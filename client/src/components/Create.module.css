@@ -1,0 +1,21 @@
+.formContainer {
+    width: 40%;
+    height: 100px;
+    text-align: left;
+    border: 1px solid black;
+    padding:20px;
+    margin: 0 auto;
+}
+
+.formStyle {       
+    display: flex;
+    flex-direction: column;    
+}
+
+.marginBottom {
+    margin-bottom: 8px;
+}
+
+.marginRight {
+    margin-right: 5px;
+}

@@ -1,0 +1,14 @@
+.tableBorder {
+    border: 2px solid black;
+    border-collapse: collapse;
+    padding: 10px;
+}
+
+.tablePosition {
+    display: flex;
+    justify-content: center;
+}
+
+.marginRight {
+    margin-right: 5px;
+}
